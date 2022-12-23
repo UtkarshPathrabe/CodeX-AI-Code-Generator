@@ -1,4 +1,8 @@
 CodeX : AI Code Generator
 =======================
 
-Code Generator and Q&A Bot created using OpenAI
+[Live Website](https://utkarsh-codex.vercel.app/)  
+
+Code Generator and Q&A Bot created using OpenAI and JavaScript.  
+
+![Main Page](./client/assets/main_page.png)  
